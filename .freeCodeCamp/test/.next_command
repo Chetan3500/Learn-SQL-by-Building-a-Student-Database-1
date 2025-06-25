@@ -83,3 +83,4 @@ git status -s
 git add courses.csv students.csv
 git commit -m 'initial commit'
 git push new main
+psql --username=freecodecamp --dbname=postgres
