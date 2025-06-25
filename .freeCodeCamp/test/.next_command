@@ -44,3 +44,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git remote -v
 git remote add new https://github.com/Chetan3500/Learn-SQL-by-Building-a-Student-Database.git
 echo hello SQL
+psql --username=freecodecamp --dbname=postgres
